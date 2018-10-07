@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b8487d1-cda0-4db7-89d4-4c640dc33abc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/page-index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/page-index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/banner-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner/banner01.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/banner/banner01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bd-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/bd-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/btn1.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/btn1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/btn2.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/btn2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/fb.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/fb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/img-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/in.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/in.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/input.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/input.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/line.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/line.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pic/1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/pic/1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pic/2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/pic/2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pic/3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/pic/3.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pic/pic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/pic/pic1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pic/pic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/pic/pic2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pic/pic3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/pic/pic3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pointer-active.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/pointer-active.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pointer.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/pointer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/rss.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/rss.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/sprite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/textarea.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/textarea.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tw.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/tw.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/yt.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/yt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/DD_belatedPNG_0.0.8a-min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/DD_belatedPNG_0.0.8a-min.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1782644073">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="3" />
+          <entry key="html" value="1" />
+          <entry key="js" value="6" />
+          <entry key="jshintrc" value="1" />
+          <entry key="json" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="1" />
+          <entry key="JSHint" value="1" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="27" />
+          <entry key="js" value="337" />
+          <entry key="jshintrc" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="27" />
+          <entry key="JSHint" value="2" />
+          <entry key="JavaScript" value="337" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-420">
+              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/page-index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1450" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/reset.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.jshintrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/DD_belatedPNG_0.0.8a-min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/css/build.min.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="745">
+              <caret line="151" column="61" selection-start-line="151" selection-start-column="61" selection-end-line="151" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-53">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/js/ie6fixer.js" />
+        <option value="$PROJECT_DIR$/js/DD_belatedPNG_0.0.8a-min.js" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/.jshintrc" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="268" />
+    <option name="y" value="98" />
+    <option name="width" value="1217" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="html_polo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html_polo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html_polo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html_polo" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html_polo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html_polo" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html_polo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html_polo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html_polo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html_polo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/build" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/css" />
+      <recent name="$PROJECT_DIR$/src/js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b8487d1-cda0-4db7-89d4-4c640dc33abc" name="Default Changelist" comment="" />
+      <created>1538925237392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538925237392</updated>
+      <workItem from="1538925240474" duration="1875000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1875000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="268" y="98" width="1217" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32861635" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-53">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ie6fixer.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/js/built.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/js/build.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/js/build.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.jshintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/page-index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/DD_belatedPNG_0.0.8a-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/css/build.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="745">
+          <caret line="151" column="61" selection-start-line="151" selection-start-column="61" selection-end-line="151" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
